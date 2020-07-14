@@ -82,6 +82,11 @@ hr {
   border-width: 1px;
 }
 
+.column_brawl {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
 
 .column {
   float: left;
